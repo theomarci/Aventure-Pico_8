@@ -1,6 +1,6 @@
 # Aventure-Pico_8
 <h3>Overview</h3>
-<p></p>Tomato Collector is a fun and challenging game developed for the Pico-8 fantasy console. In this game, you control a character whose goal is to collect as many tomatoes as possible while avoiding cursed Pac-Man enemies that appear randomly. The challenge increases as more enemies spawn with each tomato collected.</p>
+<p></p>"Aventure" is a fun and challenging game developed for the Pico-8 fantasy console. In this game, you control a character whose goal is to collect as many tomatoes as possible while avoiding cursed Pac-Man enemies that appear randomly. The challenge increases as more enemies spawn with each tomato collected.</p>
 
 <h3>Gameplay</h3>
 <p>Objective:<br> 
