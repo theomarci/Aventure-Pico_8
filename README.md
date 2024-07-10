@@ -19,3 +19,6 @@ Increasing Difficulty:<br>
 Score Tracking:<br>
   Keep track of how many tomatoes you've collected.
 </p>
+<div align="center">
+  <img src="aventure.png" alt="picture of the game">
+</div>
